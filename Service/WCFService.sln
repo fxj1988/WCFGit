@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFService", "WCFService\WCFService.csproj", "{0436C64E-1C17-4A66-8EC7-046A8E8BDDAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlModel", "SqlModel\SqlModel.csproj", "{BB88B73C-1805-4636-901E-4409E15D13D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceHost", "ServiceHost\ServiceHost.csproj", "{2BE4AFAC-6DB4-48DF-8B43-F92C8A22040D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0436C64E-1C17-4A66-8EC7-046A8E8BDDAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0436C64E-1C17-4A66-8EC7-046A8E8BDDAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0436C64E-1C17-4A66-8EC7-046A8E8BDDAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0436C64E-1C17-4A66-8EC7-046A8E8BDDAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB88B73C-1805-4636-901E-4409E15D13D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB88B73C-1805-4636-901E-4409E15D13D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB88B73C-1805-4636-901E-4409E15D13D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB88B73C-1805-4636-901E-4409E15D13D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BE4AFAC-6DB4-48DF-8B43-F92C8A22040D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE4AFAC-6DB4-48DF-8B43-F92C8A22040D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE4AFAC-6DB4-48DF-8B43-F92C8A22040D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE4AFAC-6DB4-48DF-8B43-F92C8A22040D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="XIAOMISQLModelStoreContainer" CdmEntityContainer="XIAOMISQLEntities">
+    <EntitySetMapping Name="appleAcount">
+      <EntityTypeMapping TypeName="XIAOMISQLModel.appleAcount">
+        <MappingFragment StoreEntitySet="appleAcount">
+          <ScalarProperty Name="cancelUrl" ColumnName="cancelUrl" />
+          <ScalarProperty Name="cookies" ColumnName="cookies" />
+          <ScalarProperty Name="remarks" ColumnName="remarks" />
+          <ScalarProperty Name="w3Remark" ColumnName="w3Remark" />
+          <ScalarProperty Name="w3detail" ColumnName="w3detail" />
+          <ScalarProperty Name="w3" ColumnName="w3" />
+          <ScalarProperty Name="w2Remark" ColumnName="w2Remark" />
+          <ScalarProperty Name="w2detail" ColumnName="w2detail" />
+          <ScalarProperty Name="w2" ColumnName="w2" />
+          <ScalarProperty Name="w1Remark" ColumnName="w1Remark" />
+          <ScalarProperty Name="w1detail" ColumnName="w1detail" />
+          <ScalarProperty Name="w1" ColumnName="w1" />
+          <ScalarProperty Name="wCount" ColumnName="wCount" />
+          <ScalarProperty Name="postalCode" ColumnName="postalCode" />
+          <ScalarProperty Name="district" ColumnName="district" />
+          <ScalarProperty Name="shippingUserStreet2" ColumnName="shippingUserStreet2" />
+          <ScalarProperty Name="shippingUserStreet1" ColumnName="shippingUserStreet1" />
+          <ScalarProperty Name="daytimePhone" ColumnName="daytimePhone" />
+          <ScalarProperty Name="daytimePhoneAreaCode" ColumnName="daytimePhoneAreaCode" />
+          <ScalarProperty Name="shippingUserFistName" ColumnName="shippingUserFistName" />
+          <ScalarProperty Name="shippingUserLastName" ColumnName="shippingUserLastName" />
+          <ScalarProperty Name="loginPassword" ColumnName="loginPassword" />
+          <ScalarProperty Name="loginAppleId" ColumnName="loginAppleId" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
