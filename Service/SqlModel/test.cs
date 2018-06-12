@@ -11,7 +11,7 @@ namespace SqlModel
 
         public void ButtonText(Button button)
         {
-            button.Invoke(new Action(() => { button.Text = "tt"; }));
+            button.Invoke(new Action(() => { button.Text = "这是SqlModel类中的ButtonText方法"; }));
         }
         public List<SqlModel.appleAcount> getUserInfo1()
         {
