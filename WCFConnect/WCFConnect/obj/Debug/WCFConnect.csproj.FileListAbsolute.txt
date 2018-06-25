@@ -1,0 +1,67 @@
+D:\编程备份\C#软件编程练习\WCFConnect\WCFConnect\WCFConnect\bin\Debug\WCFConnect.exe.config
+D:\编程备份\C#软件编程练习\WCFConnect\WCFConnect\WCFConnect\bin\Debug\WCFConnect.exe
+D:\编程备份\C#软件编程练习\WCFConnect\WCFConnect\WCFConnect\bin\Debug\WCFConnect.pdb
+D:\编程备份\C#软件编程练习\WCFConnect\WCFConnect\WCFConnect\obj\Debug\WCFConnect.Form1.resources
+D:\编程备份\C#软件编程练习\WCFConnect\WCFConnect\WCFConnect\obj\Debug\WCFConnect.Properties.Resources.resources
+D:\编程备份\C#软件编程练习\WCFConnect\WCFConnect\WCFConnect\obj\Debug\WCFConnect.csproj.GenerateResource.Cache
+D:\编程备份\C#软件编程练习\WCFConnect\WCFConnect\WCFConnect\obj\Debug\WCFConnect.exe
+D:\编程备份\C#软件编程练习\WCFConnect\WCFConnect\WCFConnect\obj\Debug\WCFConnect.pdb
+D:\编程备份\C#软件编程练习\WCFConnect\WCFConnect\WCFConnect\obj\Debug\WCFConnect.csprojResolveAssemblyReference.cache
+D:\编程备份\C#软件编程练习\WCFConnect\WCFConnect - 副本\WCFConnect\bin\Debug\WCFConnect.exe.config
+D:\编程备份\C#软件编程练习\WCFConnect\WCFConnect - 副本\WCFConnect\obj\Debug\WCFConnect.exe
+D:\编程备份\C#软件编程练习\WCFConnect\WCFConnect - 副本\WCFConnect\obj\Debug\WCFConnect.pdb
+D:\编程备份\C#软件编程练习\WCFConnect\WCFConnect - 副本\WCFConnect\bin\Debug\WCFConnect.exe
+D:\编程备份\C#软件编程练习\WCFConnect\WCFConnect - 副本\WCFConnect\bin\Debug\WCFConnect.pdb
+D:\编程备份\C#软件编程练习\WCFConnect\WCFConnect - 副本\WCFConnect\obj\Debug\WCFConnect.Form1.resources
+D:\编程备份\C#软件编程练习\WCFConnect\WCFConnect - 副本\WCFConnect\obj\Debug\WCFConnect.Properties.Resources.resources
+D:\编程备份\C#软件编程练习\WCFConnect\WCFConnect - 副本\WCFConnect\obj\Debug\WCFConnect.csproj.GenerateResource.Cache
+D:\编程备份\C#软件编程练习\WCFConnect\WCFConnect - 副本\WCFConnect\obj\Debug\WCFConnect.csprojResolveAssemblyReference.cache
+D:\编程备份\WCFConnect - 副本\WCFConnect\bin\Debug\WCFConnect.exe.config
+D:\编程备份\WCFConnect - 副本\WCFConnect\obj\Debug\WCFConnect.exe
+D:\编程备份\WCFConnect - 副本\WCFConnect\obj\Debug\WCFConnect.pdb
+D:\编程备份\WCFConnect - 副本\WCFConnect\obj\Debug\WCFConnect.csprojResolveAssemblyReference.cache
+D:\编程备份\WCFConnect - 副本\WCFConnect\obj\Debug\WCFConnect.Form1.resources
+D:\编程备份\WCFConnect - 副本\WCFConnect\obj\Debug\WCFConnect.Properties.Resources.resources
+D:\编程备份\WCFConnect - 副本\WCFConnect\obj\Debug\WCFConnect.csproj.GenerateResource.Cache
+D:\编程备份\WCFConnect - 副本\WCFConnect\bin\Debug\WCFConnect.exe
+D:\编程备份\WCFConnect - 副本\WCFConnect\bin\Debug\WCFConnect.pdb
+D:\编程备份\WCFConnect\WCFConnect\bin\Debug\WCFConnect.exe.config
+D:\编程备份\WCFConnect\WCFConnect\obj\Debug\WCFConnect.exe
+D:\编程备份\WCFConnect\WCFConnect\obj\Debug\WCFConnect.pdb
+D:\编程备份\WCFConnect\WCFConnect\bin\Debug\WCFConnect.exe
+D:\编程备份\WCFConnect\WCFConnect\bin\Debug\WCFConnect.pdb
+D:\编程备份\WCFConnect\WCFConnect\obj\Debug\WCFConnect.Form1.resources
+D:\编程备份\WCFConnect\WCFConnect\obj\Debug\WCFConnect.Properties.Resources.resources
+D:\编程备份\WCFConnect\WCFConnect\obj\Debug\WCFConnect.csproj.GenerateResource.Cache
+D:\编程备份\WCFConnect_XiaoMi\WCFConnect\bin\Debug\WCFConnect.exe.config
+D:\编程备份\WCFConnect_XiaoMi\WCFConnect\obj\Debug\WCFConnect.exe
+D:\编程备份\WCFConnect_XiaoMi\WCFConnect\obj\Debug\WCFConnect.pdb
+D:\编程备份\WCFConnect_XiaoMi\WCFConnect\bin\Debug\WCFConnect.exe
+D:\编程备份\WCFConnect_XiaoMi\WCFConnect\bin\Debug\WCFConnect.pdb
+D:\编程备份\WCFConnect_XiaoMi\WCFConnect\obj\Debug\WCFConnect.Form1.resources
+D:\编程备份\WCFConnect_XiaoMi\WCFConnect\obj\Debug\WCFConnect.Properties.Resources.resources
+D:\编程备份\WCFConnect_XiaoMi\WCFConnect\obj\Debug\WCFConnect.csproj.GenerateResource.Cache
+D:\编程备份\WCFConnect_XiaoMi\WCFConnect\obj\Debug\WCFConnect.csprojResolveAssemblyReference.cache
+\\Desktop-qvrd0bp\d\编程备份\WCFConnect_XiaoMi\WCFConnect\bin\Debug\WCFConnect.exe.config
+\\Desktop-qvrd0bp\d\编程备份\WCFConnect_XiaoMi\WCFConnect\obj\Debug\WCFConnect.exe
+\\Desktop-qvrd0bp\d\编程备份\WCFConnect_XiaoMi\WCFConnect\obj\Debug\WCFConnect.pdb
+D:\编程备份\WCFConnect_ON_PC\WCFConnect\bin\Debug\WCFConnect.exe.config
+D:\编程备份\WCFConnect_ON_PC\WCFConnect\obj\Debug\WCFConnect.exe
+D:\编程备份\WCFConnect_ON_PC\WCFConnect\obj\Debug\WCFConnect.pdb
+D:\编程备份\WCFConnect_ON_PC\WCFConnect\bin\Debug\WCFConnect.exe
+D:\编程备份\WCFConnect_ON_PC\WCFConnect\bin\Debug\WCFConnect.pdb
+D:\编程备份\WCFConnect_ON_PC\WCFConnect\obj\Debug\WCFConnect.Form1.resources
+D:\编程备份\WCFConnect_ON_PC\WCFConnect\obj\Debug\WCFConnect.Properties.Resources.resources
+D:\编程备份\WCFConnect_ON_PC\WCFConnect\obj\Debug\WCFConnect.csproj.GenerateResource.Cache
+C:\编程备份\WCFConnect_ON_PC\WCFConnect\bin\Debug\WCFConnect.exe.config
+C:\编程备份\WCFConnect_ON_PC\WCFConnect\obj\Debug\WCFConnect.exe
+C:\编程备份\WCFConnect_ON_PC\WCFConnect\obj\Debug\WCFConnect.pdb
+C:\编程备份\WCFConnect_ON_PC\WCFConnect\bin\Debug\WCFConnect.exe
+C:\编程备份\WCFConnect_ON_PC\WCFConnect\bin\Debug\WCFConnect.pdb
+C:\编程备份\WCFConnect_ON_PC\WCFConnect\obj\Debug\WCFConnect.csprojAssemblyReference.cache
+C:\编程备份\WCFConnect_ON_PC\WCFConnect\obj\Debug\WCFConnect.Form1.resources
+C:\编程备份\WCFConnect_ON_PC\WCFConnect\obj\Debug\WCFConnect.Properties.Resources.resources
+C:\编程备份\WCFConnect_ON_PC\WCFConnect\obj\Debug\WCFConnect.csproj.GenerateResource.cache
+C:\编程备份\WCFConnect_ON_PC\WCFConnect\obj\Debug\WCFConnect.csproj.CoreCompileInputs.cache
+D:\编程备份\WCFConnect_ON_PC\WCFConnect\obj\Debug\WCFConnect.csprojAssemblyReference.cache
+D:\编程备份\WCFConnect_ON_PC\WCFConnect\obj\Debug\WCFConnect.csproj.CoreCompileInputs.cache

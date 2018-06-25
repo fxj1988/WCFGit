@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="0b2a70ff-61d7-4ab7-8479-38053f335e75" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://192.168.31.29:8001/getSql" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="getSql3.xsd" MetadataType="Schema" ID="0f9559ef-8b1e-411c-9112-8fdafec57f5c" SourceId="1" SourceUrl="http://192.168.31.29:8001/getSql?xsd=xsd2" />
+    <MetadataFile FileName="ServiceMethods1.wsdl" MetadataType="Wsdl" ID="fd773ec9-3042-467d-b319-22bc60da4133" SourceId="1" SourceUrl="http://192.168.31.29:8001/getSql?wsdl" />
+    <MetadataFile FileName="getSql31.xsd" MetadataType="Schema" ID="d6ee64a6-0f0c-4644-8383-a7bc32e08000" SourceId="1" SourceUrl="http://192.168.31.29:8001/getSql?xsd=xsd1" />
+    <MetadataFile FileName="getSql32.xsd" MetadataType="Schema" ID="75bb76d4-083c-4473-98a6-0a56536f34d8" SourceId="1" SourceUrl="http://192.168.31.29:8001/getSql?xsd=xsd0" />
+    <MetadataFile FileName="getSql1.disco" MetadataType="Disco" ID="d3464c9c-4152-4c2c-ba73-5bb572f54750" SourceId="1" SourceUrl="http://192.168.31.29:8001/getSql?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
